@@ -2,20 +2,20 @@ const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
   siteMetadata: {
-    title: 'Yelloecake',
-    siteUrl: 'https://yellowcake.netlify.com'
+    title: 'Związek Solidarność Polskich Kombantantów',
+    siteUrl: 'https://zspk-yellowcake.netlify.com/'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
-    {
-      resolve: 'gatsby-plugin-google-tagmanager',
-      options: {
-        /*id: 'GTM-add_your_tag_here',*/
-        id: 'GTM-P4RNF8D',
-        includeInDevelopment: false
-      }
-    },
+    // {
+    //   resolve: 'gatsby-plugin-google-tagmanager',
+    //   options: {
+    //     /*id: 'GTM-add_your_tag_here',*/
+    //     id: 'GTM-P4RNF8D',
+    //     includeInDevelopment: false
+    //   }
+    // },
     {
       resolve: 'gatsby-plugin-offline',
       options: {
