@@ -1,12 +1,12 @@
 ---
 template: HomePage
 slug: ''
-title: Test
+title: Związek Solidarność Polskich Kombantantów
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: Add description here
 meta:
-  description: This is a meta description.
-  title: The Ultimate Gatsby Starter
+  description: Add meta description here.
+  title: Związek Solidarność Polskich Kombantantów
 ---
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
 
@@ -22,9 +22,3 @@ View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-r
 * Blog searching and paging functionality
 * Seamless image and content sliders
 * Instagram feed integration
-
-## Get started
-
-View the [Netlify CMS Docs](https://www.netlifycms.org/docs/) and the [Netlify CMS Repo](https://github.com/netlify/netlify-cms).
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/thriveweb/yellowcake&stack=cms)
