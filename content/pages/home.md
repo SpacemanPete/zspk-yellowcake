@@ -5,20 +5,43 @@ title: Związek Solidarność Polskich Kombantantów
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
 subtitle: Add description here
 meta:
-  description: Add meta description here.
+  description: >-
+    Zarzad Glowny Zwiazku Solidarnosci Polskich Kombatantow (ZSPK) z siedziba w
+    Gdansku
   title: Związek Solidarność Polskich Kombantantów
 ---
-Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightening fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
+DOLACZ  DO NAS!
 
-View the [project overview](https://thriveweb.com.au/the-lab/yellowcake-gatsby-react-js-starter-project/) and the [docs](https://github.com/thriveweb/yellowcake/blob/master/README.md).
+Zarzad Glowny Zwiazku Solidarnosci Polskich Kombatantow (ZSPK) z siedziba w Gdansku przy ulicy Jana z Kolna 10 udziela pelnomocnictwa naszemu czlonkowi Aleksandrowi Marciniakowi,  legitymujacemu sie reprezewntowania naszego Zwiazku ZSPK i jego interesow na terenie Stanow Zjednoczonych Ameryki Polnocnej. 
 
-# Features
 
-* **[Gatsby](https://gatsbyjs.org)** static site generator
-* **[Netlify CMS](https://github.com/netlify/netlify-cms)** for content management
-* Dynamic menus and forms
-* **[Mailchimp](http://mailchimp.com)** and **[Uploadcare](https://uploadcare.com)** integrations
-* Fully responsive layout for mobile and widescreen browsing
-* Blog searching and paging functionality
-* Seamless image and content sliders
-* Instagram feed integration
+
+​
+
+
+
+Niniejsze pelnomocnictwo upowaznia do przyjmowania w. pochet naszego Zwiazku ZSPK czlonkow, wywodzacych sie z emigracji polskiej, przybeylej do USA z przyczyn politycznych, a przede wszystkim w czasie stanu wojennego w Polsce i nie tylko.  Pelnomocnictwo upowaznia takze do tworzenia struktur zwiazkowych ZSPK na terenie USA, a cala dokumentacja bedzie przekazywana siecia internetowa na adres milowy: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
+
+
+
+Skladka miesieczna wysokosci $4.00, skladka roczna $48.00.
+
+
+
+​
+
+
+
+Prezez Zarzadu Glownego
+
+
+
+Zwiazku Solidarnosci Polskich Kombatantow
+
+
+
+​
+
+
+
+Zbigniew Iwaniuk
